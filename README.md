@@ -1,4 +1,4 @@
-# Advanced RL Enhanced Research Automation Crew AI Agent
+# Advanced RL Enhanced Research Workflow Automation Crew AI Agent
 
 ![](https://cdn.prod.website-files.com/622611a2b23d0e6b270fba81/676b196e2d97607158d194b1_AD_4nXdAz7RhFiNhGWDqGwzMa2zRwcxFIRnlrvPxBC1dXQwD6CaSjJEOJCX6aMyFH4RZUu7Ek_MmblhjSXiKGCF_ARP7wJTXkIdlEpEa3WDQ1UUTFXmSOIjicsglbx5v331HNzdhDsgwhteDncic47HXRzI.png)
 
@@ -59,4 +59,4 @@ Let's create wonders together with the power and simplicity of crewAI.
 
 **Multi-agentic chat interface endpoint serving at**: https://tinyurl.com/kamalesh-crewai-v2 🟢
 
-**Note:** Note that the above URI endpoint might not work due to limitations in Crew AI Advanced subscription.    👍
+**Note:** Note that the above URI endpoint might not work due to limitations in Crew AI Advanced **Agent Management Platform (AMP)** subscription.    👍
