@@ -2,7 +2,7 @@
 
 ![](https://cdn.prod.website-files.com/622611a2b23d0e6b270fba81/676b196e2d97607158d194b1_AD_4nXdAz7RhFiNhGWDqGwzMa2zRwcxFIRnlrvPxBC1dXQwD6CaSjJEOJCX6aMyFH4RZUu7Ek_MmblhjSXiKGCF_ARP7wJTXkIdlEpEa3WDQ1UUTFXmSOIjicsglbx5v331HNzdhDsgwhteDncic47HXRzI.png)
 
-Welcome to the AdvancedAiEnhancedResearchAutomation Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+Welcome to the Multi-Agentic system project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. My goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
 ## Installation
 
